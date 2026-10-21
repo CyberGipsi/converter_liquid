@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ficha 2</string>
+    <string name="hint_liquid">Introduza o valor em litros</string>
+    <string name="btn_c_to_f">Litros para Mililitros</string>
+    <string name="btn_c_to_k">Litros para Centilitros</string>
+    <string name="btn_f_to_c">Litros para Decalitros</string>
+    <string name="error_invalid_input">Por favor introduza um número válido</string>
+    <string name="result_prefix">Resultado: </string>
+</resources>
